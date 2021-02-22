@@ -2,9 +2,9 @@
 
 Bom, nós já estamos trabalhando com o projeto da plataforma de streaming há um tempo agora. Até o momento você desenvolveu as duas primeiras telas de acesso à plataforma, a tela de login e a tela de escolha de usuário(aquela "Quem está assistindo"). E nada mais justo que finalizar esse projeto, desenvolvendo agora a página inicial da plataforma.
 
-Para dar início a essa entrega você vai acessar o seguinte [repositório](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page), e fazer o fork.
+Para essa entega, voce vai receber um repositório, contendo a estruturação inicial mínima de um projeto. Você vai fazer o fork desse repositório e a partir disso você vai trabalhar com a estilização(CSS) da página.
 
-Arquivos base já são fornecidos, juntamente com algumas imagens para você poder se preocupar apenas com o código, e também todas as especificações necessárias: cores e fonte utilizadas.
+Arquivos base já são fornecidos, juntamente com algumas imagens para você poder se preocupar apenas com o código. Também foram disponibilizadas todas as especificações necessárias: cores, fontes, tamanhos, etc.
 
 ## Especificações
 
@@ -50,8 +50,8 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - Item hover menu: `#b3b3b3`
 - Fonte: `14px`
 - Background: `linear-gradient(to bottom, rgba(0,0,0,.7) 10%, rgba(0,0,0,0))`
-- Background após scroll: `#141414`
-    - _*Obs:_ a header é fixa no topo
+<!-- - Background após scroll: `#141414`
+    - _*Obs:_ a header é fixa no topo -->
 
 ### Destaque
 
@@ -61,6 +61,9 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 
 - Cor descrição: `#ffffff`
 - Fonte descrição: `26px`
+- Sombra do texto: `2px 2px 4px rgb(0 0 0 / 45%)`;
+    - _Um pouco mais sobre sombras de texto_: [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+    - _Ferramenta:_ [Text Shadow CSS Generator](https://cssgenerator.org/text-shadow-css-generator.html)
 
 #### Button "Mais informações"
 
@@ -94,6 +97,16 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - O site precisa ser **mobile first**
 - Precisa estar **publicado no gitlab pages**
 
-Você vai utilizar o seguinte layout como base:
+## Repositório
+
+[Link para fazer o fork do projeto](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page)
+
+#### Você vai utilizar o seguinte layout como base:
+
+A imagem também está dentro do repositório também, então você pode abrir na sua máquina, caso ache melhor.
 
 ![Netflix Template](./assets/img/layout.png)
+
+## Envio
+
+Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, envie a url de seu Gitlab Pages (ex: https://nomedeusuario.gitlab.io/streaming-platform-layout/) e, no GitLab, adicione o grupo ka-br-<sua-turma>-correcoes como membro do seu projeto com a permissão "Reporter".
