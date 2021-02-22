@@ -1,4 +1,4 @@
-# Assessment - Estilizando Página Inicial de uma Plataforma de Streaming
+# Entrega - Estilizando Página Inicial de uma Plataforma de Streaming
 
 Bom, nós já estamos trabalhando com o projeto da plataforma de streaming há um tempo agora. Até o momento você desenvolveu as duas primeiras telas de acesso à plataforma, a tela de login e a tela de escolha de usuário(aquela "Quem está assistindo"). E nada mais justo que finalizar esse projeto, desenvolvendo agora a página inicial da plataforma.
 
@@ -41,6 +41,10 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - Fonte: `'Helvetica Neue',Helvetica,Arial,sans-serif;`
 - Background body: `#141414`
 
+### Container
+
+- O container possui uma largura máxima de `1735px`, caso a resolução seja menor que isso, o container possui um padding lateral de `60px`
+
 ### Header
 
 - A logo possui `92px` de largura
@@ -50,8 +54,6 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - Item hover menu: `#b3b3b3`
 - Fonte: `14px`
 - Background: `linear-gradient(to bottom, rgba(0,0,0,.7) 10%, rgba(0,0,0,0))`
-<!-- - Background após scroll: `#141414`
-    - _*Obs:_ a header é fixa no topo -->
 
 ### Destaque
 
@@ -105,7 +107,7 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 
 A imagem também está dentro do repositório também, então você pode abrir na sua máquina, caso ache melhor.
 
-![Netflix Template](./assets/img/layout.png)
+![Netflix Template](assets/img/layout.png)
 
 ## Envio
 
