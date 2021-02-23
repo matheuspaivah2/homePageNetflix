@@ -103,9 +103,15 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 
 [Link para fazer o fork do projeto](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page)
 
-#### Você vai utilizar o seguinte layout como base:
+### Você vai utilizar os seguintes layouts como base:
 
 A imagem também está dentro do repositório também, então você pode abrir na sua máquina, caso ache melhor.
+
+#### Mobile:
+
+![Netflix Template Mobile](assets/img/layout-mobile.png)
+
+#### Desktop:
 
 ![Netflix Template](assets/img/layout.png)
 
