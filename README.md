@@ -109,11 +109,11 @@ A imagem também está dentro do repositório também, então você pode abrir n
 
 #### Mobile:
 
-[Template Mobile](assets/img/layout-mobile.png)
+[Template Mobile](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page/-/raw/master/assets/img/layout-mobile.png)
 
 #### Desktop:
 
-[Template Desktop](assets/img/layout.png)
+[Template Desktop](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page/-/raw/master/assets/img/layout.png)
 
 ## Envio
 
