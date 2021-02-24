@@ -109,11 +109,11 @@ A imagem também está dentro do repositório também, então você pode abrir n
 
 #### Mobile:
 
-![Netflix Template Mobile](assets/img/layout-mobile.png)
+[Template Mobile](assets/img/layout-mobile.png)
 
 #### Desktop:
 
-![Netflix Template](assets/img/layout.png)
+[Template Desktop](assets/img/layout.png)
 
 ## Envio
 
