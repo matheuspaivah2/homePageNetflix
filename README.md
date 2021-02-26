@@ -143,11 +143,15 @@ A imagem também está dentro do repositório também, então você pode abrir n
 
 #### Mobile:
 
-[Template Mobile](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page/-/raw/master/assets/img/layout-mobile.png)
+![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming1.png)
+
+[Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming1.png)
 
 #### Desktop:
 
-[Template Desktop](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-streaming-platform-home-page/-/raw/master/assets/img/layout.png)
+![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming2.png)
+
+[Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming2.png)
 
 ## Envio
 
