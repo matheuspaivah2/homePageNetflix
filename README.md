@@ -2,7 +2,7 @@
 
 Bom, nós já estamos trabalhando com o projeto da plataforma de streaming há um tempo agora. Até o momento você desenvolveu as duas primeiras telas de acesso à plataforma, a tela de login e a tela de escolha de usuário(aquela "Quem está assistindo"). E nada mais justo que finalizar esse projeto, desenvolvendo agora a página inicial da plataforma.
 
-Para essa entega, voce vai receber um repositório, contendo a estruturação inicial mínima de um projeto. Você vai fazer o fork desse repositório e a partir disso você vai trabalhar com a estilização(CSS) da página.
+Para essa entrega, voce vai receber um repositório, contendo a estruturação inicial mínima de um projeto. Você vai fazer o fork desse repositório e a partir disso você vai trabalhar com a estilização(CSS) da página.
 
 Arquivos base já são fornecidos, juntamente com algumas imagens para você poder se preocupar apenas com o código. Também foram disponibilizadas todas as especificações necessárias: cores, fontes, tamanhos, etc.
 
@@ -12,7 +12,7 @@ Arquivos base já são fornecidos, juntamente com algumas imagens para você pod
 
 Recomendamos que você analise toda a estrutura HTML proposta para esse projeto, é importante entender como tudo foi estruturado antes de colocar a mão na massa. 
 
-Não tenha preça para conhecer o projeto antes de partir para ação!
+Não tenha pressa para conhecer o projeto antes de partir para ação!
 
 **Obs:** Não é obrigatório utilizar a estrutura sugerida, você pode construir o seu próprio HTML, se preferir.
 
