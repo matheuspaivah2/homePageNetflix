@@ -43,9 +43,17 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 
 ### Container
 
+#### Desktop
+
 - O container possui uma largura máxima de `1735px`, caso a resolução seja menor que isso, o container possui um padding lateral de `60px`
 
+#### Mobile
+
+- O container possui um padding lateral de `30px`
+
 ### Header
+
+#### Desktop
 
 - A logo possui `92px` de largura
 - O ícone do usuário possui `32px` de largura
@@ -55,17 +63,12 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - Fonte: `14px`
 - Background: `linear-gradient(to bottom, rgba(0,0,0,.7) 10%, rgba(0,0,0,0))`
 
+#### Mobile
+
+- A logo possui `70px` de largura
+- O ícone do usuário possui `28px` de largura
+
 ### Destaque
-
-- Fonte buttons: `22px`
-
-#### Descrição
-
-- Cor descrição: `#ffffff`
-- Fonte descrição: `26px`
-- Sombra do texto: `2px 2px 4px rgb(0 0 0 / 45%)`;
-    - _Um pouco mais sobre sombras de texto_: [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
-    - _Ferramenta:_ [Text Shadow CSS Generator](https://cssgenerator.org/text-shadow-css-generator.html)
 
 #### Button "Mais informações"
 
@@ -79,12 +82,41 @@ Não tenha preça para conhecer o projeto antes de partir para ação!
 - Background hover: `rgba(255,255,255,0.75)`
 - Cor do texto: `#000000`
 
+#### Desktop
+
+- Fonte buttons: `22px`
+
+##### Descrição
+
+- Logo programa em destaque: `650px` de largura
+- Cor descrição: `#ffffff`
+- Fonte descrição: `26px`
+- Sombra do texto: `2px 2px 4px rgb(0 0 0 / 45%)`;
+    - _Um pouco mais sobre sombras de texto_: [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+    - _Ferramenta:_ [Text Shadow CSS Generator](https://cssgenerator.org/text-shadow-css-generator.html)
+
+#### Mobile
+
+- Fonte buttons: `12px`
+
+##### Descrição
+
+- Logo programa em destaque: `160px` de largura
+- Fonte descrição: `12px`
+
 ### Catálogo
 
+#### Desktop
+
 - Cor do título: `#e5e5e5`
-- Fonte títutlo: `26px`
+- Fonte título: `26px`
 - Background seção 'Continuar assistindo': `linear-gradient(to bottom,rgba(20,20,20,0) 0,rgba(20,20,20,.15) 15%,rgba(20,20,20,.35) 29%,rgba(20,20,20,.58) 44%,#141414 68%,#141414 100%)`
 - Cada item(programa) do catálogo possui `287px` de largura
+
+#### Mobile
+
+- Fonte título: `17px`
+- Cada item(programa) do catálogo possui `50%` de largura
 
 ### Footer
 
