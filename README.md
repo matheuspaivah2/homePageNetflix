@@ -143,13 +143,13 @@ A imagem também está dentro do repositório também, então você pode abrir n
 
 #### Mobile:
 
-![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming1.png)
+<!-- ![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming1.png) -->
 
 [Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming1.png)
 
 #### Desktop:
 
-![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming2.png)
+<!-- ![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming2.png) -->
 
 [Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/streaming2.png)
 
