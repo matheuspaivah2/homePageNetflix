@@ -14,6 +14,8 @@ Recomendamos que você analise toda a estrutura HTML proposta para esse projeto,
 
 Não tenha preça para conhecer o projeto antes de partir para ação!
 
+**Obs:** Não é obrigatório utilizar a estrutura sugerida, você pode construir o seu próprio HTML, se preferir.
+
 ### Estrutura de pastas
 
 - README.md
