@@ -1,4 +1,4 @@
-# Entrega - Estilizando Página Inicial de uma Plataforma de Streaming
+# Extra - Estilizando Página Inicial de uma Plataforma de Streaming
 
 Bom, nós já estamos trabalhando com o projeto da plataforma de streaming há um tempo agora. Até o momento você desenvolveu as duas primeiras telas de acesso à plataforma, a tela de login e a tela de escolha de usuário(aquela "Quem está assistindo"). E nada mais justo que finalizar esse projeto, desenvolvendo agora a página inicial da plataforma.
 
