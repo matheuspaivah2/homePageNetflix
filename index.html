@@ -4,36 +4,45 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://kit.fontawesome.com/4189588493.js" crossorigin="anonymous"></script>
     <title>Página inicial</title>
 </head>
 <body>
+    <figure class="figback">
+        <img src="assets/img/movies/ted.webp" alt="" class="imgback">
+    </figure>
     <header>
         <div class="container">
             <div class="flex">
-                <div class="flex-column">
-                    <a href="#" class="logo">
-                        <figure>
-                            <img src="" alt="Logo netflix">
-                            <figcaption class="hidden">Logo netflix</figcaption>
-                        </figure>
-                    </a>
+
+                <div class="left-side">
+                    <div class="flex-column">
+                        <a href="#" class="logo">
+                            <figure>
+                                <img src="assets/img/logo.svg" alt="Logo netflix" >
+                                <figcaption class="hidden">Logo netflix</figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="flex-column">
+                        <nav>
+                            <span class="abrir-submenu mobile-element">Navegar <i class="fas fa-caret-down"></i></span>
+                            <ul>
+                                <li id="item-ativo"><a href="#">Início</a></li>
+                                <li><a href="#">Séries</a></li>
+                                <li><a href="#">Filmes</a></li>
+                                <li><a href="#">Bombando</a></li>
+                                <li><a href="#">Minha lista</a></li>
+                            </ul>
+                        </nav>
+                    </div>
                 </div>
-                <div class="flex-column">
-                    <nav>
-                        <span class="abrir-submenu mobile-element">Navegar</span>
-                        <ul>
-                            <li class="item-ativo"><a href="#">Início</a></li>
-                            <li><a href="#">Séries</a></li>
-                            <li><a href="#">Filmes</a></li>
-                            <li><a href="#">Bombando</a></li>
-                            <li><a href="#">Minha lista</a></li>
-                        </ul>
-                    </nav>
-                </div>
-                <div class="flex-column">
+                
+                <div class="flex-column user">
                     <div class="menu-usuario">
-                        <span class="pesquisar"><img src="" alt="Ícone pesquisar"></span>
-                        <span class="usuario"><img src="" alt="Ícone usuário"></span>
+                        <span class="pesquisar"><i class="fas fa-search"></i></span>
+                        <span class="usuario"><img src="assets/img/user.png" alt="Ícone usuário"></span>
                     </div>
                 </div>
             </div>
@@ -42,16 +51,17 @@
     
     <main class="pagina-inicial">
         <section class="secao-destaque">
+            
             <div class="container">
                 <article class="secao-destaque-conteudo">
                     <figure>
-                        <img src="" alt="Título seção destaque">
+                        <img src="assets/img/movies/tedlogo.webp" alt="Título seção destaque">
                         <figcaption class="hidden">Título seção destaque</figcaption>
                     </figure>
                     <p>Ela o amava e queria acreditar nele. Mas a verdade era monstruosa demais para ser ignorada.</p>
                     <div class="secao-destaque-buttons">
-                        <button class="assistir">Assistir</button>
-                        <button class="mais-informacoes">Mais informações</button>
+                        <button class="assistir"><i class="fas fa-play"></i>Assistir</button>
+                        <button class="mais-informacoes"><i class="fas fa-info"></i>Mais informações</button>
                     </div>
                 </article>
             </div>
@@ -63,7 +73,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -71,7 +81,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -79,7 +89,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -87,7 +97,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -95,7 +105,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -103,7 +113,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/gg.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -118,7 +128,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -126,7 +136,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -134,7 +144,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -142,7 +152,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -150,7 +160,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -158,7 +168,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/amigas.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -168,52 +178,52 @@
         </section>
         <section class="secao-catalogo" id="secao-originais">
             <div class="container">
-                <h2 class="secao-catalogo-titulo">Minha lista</h2>
+                <h2 class="secao-catalogo-titulo">Originais Netflix</h2>
                 <ul class="flex">
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li class="flex-column">
                         <a href="#">
-                            <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                            <figure class="f-ori">
+                                <img src="assets/img/movies/good.webp" alt="Nome programa" class="ori-netflix-img">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -228,7 +238,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -236,7 +246,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -244,7 +254,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -252,7 +262,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -260,7 +270,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -268,7 +278,7 @@
                     <li class="flex-column">
                         <a href="#">
                             <figure>
-                                <img src="assets/img/movies/" alt="Nome programa">
+                                <img src="assets/img/movies/papel.jpg" alt="Nome programa">
                                 <figcaption class="hidden">Nome programa</figcaption>
                             </figure>
                         </a>
@@ -293,11 +303,12 @@
                 </div>
                 <div class="flex-column">
                     <ul class="redes-sociais">
-                        <li><a href="#"><img src="" alt="Facebook"></a></li>
-                        <li><a href="#"><img src="" alt="Instagram"></a></li>
-                        <li><a href="#"><img src="" alt="Twitter"></a></li>
+                        <li><a href="#"><img src="assets/img/facebook-app-logo.svg" alt="Facebook"></a></li>
+                        <li><a href="#"><img src="assets/img/instagram-symbol.svg" alt="Instagram"></a></li>
+                        <li><a href="#"><img src="assets/img/twitter.svg" alt="Twitter"></a></li>
                     </ul>
                 </div>
+                
             </div>
             <div class="copyright">
                 <p>&copy; 1997-2021 Netflix, Inc.</p>
